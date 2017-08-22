@@ -2,7 +2,7 @@
   "name": "boom",
   "description": "HTTP-friendly error objects",
   "version": "5.2.0",
-  "repository": "git://github.com/hapijs/boom",
+  "repository": "git://github.com/matth022/boom",
   "main": "lib/index.js",
   "keywords": [
     "error",
@@ -12,7 +12,7 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "hoek": "4.x.x"
+    "hoek": "git+https://github.com/matth022/hoek.git"
   },
   "devDependencies": {
     "code": "4.x.x",
